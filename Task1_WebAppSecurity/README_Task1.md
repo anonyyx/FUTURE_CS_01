@@ -1,5 +1,7 @@
 Author: Armaan Singh
+
 Date: 21-09-2025
+
 Summary: SQLi (login bypass), XSS (search), CSRF (form).
 Report: Task1_WebAppSecurity_Report.pdf
 Files: Screenshots/, ScreenRecordings/
